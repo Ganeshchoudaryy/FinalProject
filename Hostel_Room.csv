@@ -1,0 +1,11 @@
+﻿Room_ID,Room_Price,Room_Type,Room_Status
+201,$15.00,Single Bed,Occupied
+202,$20.00,Double Bed,Availabe
+203,$22.00,Single Bed,Occupied
+204,$19.00,Single Bed,Occupied
+205,$12.00,Triple Bed,Availabe
+206,$30.00,Single Bed,Occupied
+207,$11.00,Single Bed,Occupied
+208,$9.00,Triple Bed,Availabe
+209,$7.00,Triple Bed,Availabe
+210,$20.00,Single Bed,Availabe
